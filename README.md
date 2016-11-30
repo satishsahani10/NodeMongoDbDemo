@@ -9,7 +9,8 @@ Steps to run the application
   https://www.mongodb.com/download-center
 
 3. Navigate to mongod.exe folder and open up terminal and run following command to start MongoDB Server at default port.
-  mongod --dbpath "c:/Users/Shahid/Desktop/mongoData" 
+  
+  mongod --dbpath "c:/Users/Satish/Desktop/mongoData" 
   
 4. Now open up another terminal of mongod and run following command.
   mongo
