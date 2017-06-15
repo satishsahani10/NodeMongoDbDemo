@@ -2,6 +2,7 @@
 
 Steps to run the application
 
+Installtion
 1. Install node js
   https://nodejs.org/en/download/
 
